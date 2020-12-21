@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RemoteImageView",
+        "repositoryURL": "https://github.com/DVdroid/RemoteImageView.git",
+        "state": {
+          "branch": null,
+          "revision": "c020582a55c9255b5b363cbe5512e3d3152ef188",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "Yams",
+        "repositoryURL": "https://github.com/jpsim/Yams.git",
+        "state": {
+          "branch": null,
+          "revision": "1bce5b89a11912fb8a8c48bd404bd24979472f27",
+          "version": "4.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
